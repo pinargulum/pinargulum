@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **Software Engineer
 
 ---
 ## 🌟 **About Me**
-- 🎓 Studying Software Engineering at **TripleTen Bootcamp**.
+- 🎓 Graduaded Software Engineering at **TripleTen Bootcamp**.
 - 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **Express.js**, and **Figma**.
 - 🛠️ Experienced in **Responsive Design**, **UI/UX Development**, and **Version Control (Git/GitHub)**.
 - 💼 Transitioned from a 20-year career in **Hospitality Management** to pursue my passion for technology.
