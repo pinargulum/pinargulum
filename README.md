@@ -37,16 +37,39 @@ News Explorer is a responsive, full-stack web application that allows users to s
 - **Vite**
 - **Git & GitHub**
 ---
+# Weather Wardrobe App
+Weather Wardrobe is a responsive web application built with React and Express.  
+The main purpose of this project is to help users decide what to wear based on the current weather conditions in their selected location.
+---
+## Features
+- **Real-time Weather Data**: Fetches live weather information using an external API.
+- **Location-based Suggestions**: Recommends clothing based on user-selected city and temperature.
+- **Authentication**: Users can sign up, sign in, and manage their saved clothing items.
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
+- **User-Friendly Interface**: Clean and intuitive layout for seamless interaction.
+---
+## Technologies Used
+---
+### Frontend:
+- React.js
+- CSS
+- JSX
+---
+### Backend:
+- Express.js
+- Node.js
+---
+### Other Tools:
+- Weather API
+- Git & GitHub for version control
+---
 ### 🗺️ [Around Us](#)
 - A travel project built with **HTML**, **CSS**, and **JavaScript**.
 - Allows users to upload and share travel pictures from their adventures.
 - Includes a responsive and visually appealing design for optimal user experience.
 - Perfect for connecting travelers and sharing stories from around the world.
 ---
-### 🌦️ [WeatherWear App](#)
-- A React.js application that suggests clothing based on real-time weather data.
-- Built with responsive design and intuitive UI/UX principles.
----
+
 ## 🤝 **Let’s Connect**
 - 💼 [LinkedIn](#) 
 - 📧 [Email](#) 
