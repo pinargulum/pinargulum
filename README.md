@@ -121,9 +121,9 @@ This project allows users to upload and share photos from their journeys, offeri
 - JavaScript
 ---
 ## 🤝 **Let’s Connect**
-- 💼 [LinkedIn](#) 
-- 📧 [Email](#) 
-- 🌟 [Portfolio](#) 
+- 💼 [www.linkedin.com/in/pinar-gulum](#) 
+- 📧 [pinargulum@hotmail.com](#) 
+
 ---
 I’m excited to collaborate on open-source projects, tackle real-world challenges, and keep growing as a developer. Feel free to check out my repositories and connect with me for opportunities or just to say hi! 😊
 
