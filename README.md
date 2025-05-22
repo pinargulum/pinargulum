@@ -93,14 +93,33 @@ It allows users to have interactive conversations while delivering a responsive 
 - JavaScript
 
 - CSS
----
-### 🗺️ [Around Us](#)
-- A travel project built with **HTML**, **CSS**, and **JavaScript**.
-- Allows users to upload and share travel pictures from their adventures.
-- Includes a responsive and visually appealing design for optimal user experience.
-- Perfect for connecting travelers and sharing stories from around the world.
+  
 ---
 
+# Around Us
+
+**Around Us** is a responsive travel-themed web app built with **HTML**, **CSS**, and **JavaScript**.  
+
+This project allows users to upload and share photos from their journeys, offering an engaging way to connect with other travelers around the globe.
+
+## 🔍 Features
+
+- **Photo Sharing** – Users can upload and share travel memories.
+
+- **Clean and intuitive UI** – Designed to provide an enjoyable and seamless experience.
+
+- **Fully responsive layout** – Optimized for mobile, tablet, and desktop screens.
+
+- **Visually appealing design** – Beautiful layout with strong emphasis on user experience.
+
+## 🚀 Technologies
+
+- HTML
+
+- CSS
+
+- JavaScript
+---
 ## 🤝 **Let’s Connect**
 - 💼 [LinkedIn](#) 
 - 📧 [Email](#) 
