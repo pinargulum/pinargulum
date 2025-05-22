@@ -41,14 +41,14 @@ News Explorer is a responsive, full-stack web application that allows users to s
 Weather Wardrobe is a responsive web application built with React and Express.  
 The main purpose of this project is to help users decide what to wear based on the current weather conditions in their selected location.
 ---
-## Features
+## 🔍 Features
 - **Real-time Weather Data**: Fetches live weather information using an external API.
 - **Location-based Suggestions**: Recommends clothing based on user-selected city and temperature.
 - **Authentication**: Users can sign up, sign in, and manage their saved clothing items.
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
 - **User-Friendly Interface**: Clean and intuitive layout for seamless interaction.
 ---
-## Technologies Used
+## 🚀 Technologies
 ---
 ### Frontend:
 - React.js
