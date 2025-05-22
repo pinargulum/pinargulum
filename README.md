@@ -4,6 +4,7 @@
 Welcome to my GitHub profile! I'm a passionate and dedicated **Software Engineer** with a background in **Hospitality Management**. I'm currently exploring the exciting world of web development and honing my skills in building modern, user-friendly applications.
 ---
 ## 🌟 **About Me**
+
 - 🎓 Graduaded Software Engineering at **TripleTen Bootcamp**.
 - 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **Express.js**, and **Figma**.
 - 🛠️ Experienced in **Responsive Design**, **UI/UX Development**, and **Version Control (Git/GitHub)**.
@@ -11,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **Software Engineer
 - 📍 Based in **New York City**.
 ---
 ## 💻 **Tech Stack**
+
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
 - **Design:** Figma, Responsive Design, User Interface
@@ -22,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **Software Engineer
 News Explorer is a responsive, full-stack web application that allows users to search for news articles, save them to their personal collection, and manage them securely using Firebase.
 ---
 ## 🔍 Features
+
 - **User Authentication** with Firebase (Sign Up / Sign In / Log Out)
 - **Search functionality** using the News API
 - **Save & delete articles** to/from your personal collection
@@ -30,6 +33,7 @@ News Explorer is a responsive, full-stack web application that allows users to s
 - **Clean UI** with semantic HTML and accessible design
 ---
 ## 🚀 Technologies
+
 - **React**
 - **JavaScript (ES6+)**
 - **Firebase (Authentication & Firestore)**
@@ -42,6 +46,7 @@ Weather Wardrobe is a responsive web application built with React and Express.
 The main purpose of this project is to help users decide what to wear based on the current weather conditions in their selected location.
 ---
 ## 🔍 Features
+
 - **Real-time Weather Data**: Fetches live weather information using an external API.
 - **Location-based Suggestions**: Recommends clothing based on user-selected city and temperature.
 - **Authentication**: Users can sign up, sign in, and manage their saved clothing items.
@@ -49,7 +54,7 @@ The main purpose of this project is to help users decide what to wear based on t
 - **User-Friendly Interface**: Clean and intuitive layout for seamless interaction.
 ---
 ## 🚀 Technologies
----
+
 ### Frontend:
 - React.js
 - CSS
